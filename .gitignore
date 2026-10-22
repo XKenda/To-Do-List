@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# User-specific settings
+*.rsuser
+
+# Secrets and environment variables
+.env
+appsettings.*
+
+# Logs
+*.log
